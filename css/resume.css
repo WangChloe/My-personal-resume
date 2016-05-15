@@ -16,6 +16,16 @@
        white-space: -o-pre-wrap;
        word-wrap: break-word;
    }
+   a{
+       text-decoration:none;
+       target:_blank;
+   }
+   a: link{
+       color:#6AB26B;
+   }
+   a: visited{
+       color:#921A8B;
+   }
    .border_box {
       box-sizing: border-box;
       -ms-box-sizing: border-box;
