@@ -18,13 +18,12 @@
    }
    a{
        text-decoration:none;
-       target:_blank;
    }
    a: link{
        color:#6AB26B;
    }
-   a: visited{
-       color:#921A8B;
+   a: active{
+       color:#000;
    }
    .border_box {
       box-sizing: border-box;
