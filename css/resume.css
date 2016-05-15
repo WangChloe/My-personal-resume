@@ -19,12 +19,6 @@
    a{
        text-decoration:none;
    }
-   a: link{
-       color:#6AB26B;
-   }
-   a: active{
-       color:#000;
-   }
    .border_box {
       box-sizing: border-box;
       -ms-box-sizing: border-box;
