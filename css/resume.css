@@ -6,7 +6,7 @@
 */
 <style type="text/css">
     a:linked, a:visited, a:hover, a:active {
-        color:#000;
+        color:#000000;
     }
     div, table, td, pre, input {
        margin: 0;
@@ -21,7 +21,6 @@
    }
    a{
        text-decoration:none;
-       color：#000；
    }
    .border_box {
       box-sizing: border-box;
