@@ -5,6 +5,9 @@
 * @Last Modified time: 2016-05-14 16:39:19
 */
 <style type="text/css">
+    a:linked, a:visited, a:hover, a:active {
+        color:#000;
+    }
     div, table, td, pre, input {
        margin: 0;
        padding: 0;
